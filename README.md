@@ -46,7 +46,7 @@ Schedule a meeting @ https://calendly.com/shuvro/15min
 
 ### About:
 - Web: https://shuvro.me
-- Github: https://github.com/shuvro
+- LinkedIn: https://linkedin.com/shuvrokhan
 - Kaggle: https://kaggle.com/shuvrokhan
 - Twitter: https://twitter.com/cse_shuvro
 - Reddit: https://reddit.com/shuvro_khan
