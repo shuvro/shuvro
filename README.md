@@ -7,7 +7,7 @@ I have found that being a positive, disciplined, and effective communicator I am
 
 To an extent, I specialize in large scale, high availability enterprise applications development (Web and Desktop) and an agile and ambitious software engineer with a strong technical background who possesses self-discipline, hardworking, quick learning, good team spirit and honesty.
 
-That is how I have managed to work over 16,000 hours (5+ Years) in my Software Development timeframe.
+That is how I have managed to work over 16,000 hours (6+ Years) in my Software Development timeframe.
 
 ### Complete list of expertise areas:
 - Python | Java | Node | PHP
