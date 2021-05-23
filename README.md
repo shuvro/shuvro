@@ -41,7 +41,7 @@ I am also interested in math, finance, quantitative analysis, complex algorithm 
 
 In industry, my passion for programming remains with me from childhood. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
-[![Shuvro's GitHub stats](github-readme-stats-shuvro.vercel.app/api?username=shuvro)](https://github.com/shuvro/github-readme-stats)
+[![Shuvro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact:
 Schedule a meeting @ https://calendly.com/shuvro/15min
