@@ -51,5 +51,5 @@ Schedule a meeting @ https://calendly.com/shuvro/15min
 - Web: https://shuvro.me
 - LinkedIn: https://linkedin.com/in/shuvrokhan
 - Kaggle: https://kaggle.com/shuvrokhan
-- Twitter: https://twitter.com/cse_shuvro
+- Twitter: https://twitter.com/th3_death_star
 - Reddit: https://reddit.com/shuvro_khan
