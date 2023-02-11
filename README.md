@@ -45,11 +45,10 @@ In industry, my passion for programming remains with me from childhood. There's 
 [![Shuvro's GitHub stats](https://github-readme-stats-shuvro.vercel.app/api?username=shuvro&count_private=true&show_icons=true)](https://github.com/shuvro/github-readme-stats)
 
 ### Contact:
-Schedule a meeting @ https://calendly.com/shuvro/15min
+Schedule a meeting @ https://cal.com/nazmul
 
 ### About:
 - Web: https://shuvro.me
 - LinkedIn: https://linkedin.com/in/shuvrokhan
-- Kaggle: https://kaggle.com/shuvrokhan
-- Twitter: https://twitter.com/th3_death_star
+- Twitter: https://twitter.com/theOutlawDev
 - Reddit: https://reddit.com/shuvro_khan
