@@ -52,9 +52,9 @@ In industry, my passion for programming has remained with me since childhood. Th
 Schedule a meeting @ https://cal.com/nazmul
 
 ### Full Stack Development Consultancy ( AI & Everything )
-Visit: https://sparrow.so ( Sparrow Studio LLC )
-Linkedin: https://www.linkedin.com/company/sparrowhq
-Twitter/X: https://twitter.com/SparrowStudioHQ
+- Visit: https://sparrow.so ( Sparrow Studio LLC )
+- Linkedin: https://www.linkedin.com/company/sparrowhq
+- Twitter/X: https://twitter.com/SparrowStudioHQ
 
 ### About:
 - Web: https://shuvro.me
