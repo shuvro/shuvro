@@ -10,28 +10,28 @@ I specialize in developing large-scale, high-availability enterprise application
 That is how I have managed to work over 20,000 hours (8+ Years) cumulatively in my Software Development time frame.
 
 ### Complete list of expertise areas:
-👉 Python | Java | Node | PHP
-👉 Spring Stack - Spring MVC, Spring Boot, Spring Security, Spring Data/JPA/Hibernate.
-👉 Django | Flask | Celery | MongoEngine | SQLAlchemy
-👉 Laravel | Codeigniter | Symphony | Yii2 | Blade
-👉 ExpressJS | Cote Microservice | LoopbackJS | Sequelize | ejs | Handlebars
-👉 TypeScript
-👉 REST / GraphQL APIs integration, design, and development.
-👉 Swagger OpenAPI v3
-👉 Angular 2/4/6/7/8, React, Gulp, Bower.
-👉 MySQL, PostgreSQL, MongoDB, Firebase / Firestore 
-👉 Redis
-👉 Elasticsearch / Sphinx / Algolia
-👉 AWS ( Amazon Web Services ) | GCP ( Google Cloud Platform ) | Serverless Architecture
-👉 Google Kubernetes Engine, Cloud functions, Cloud Run, Cloud DNS, API Gateway, Load Balancer, etc
-👉 Messaging - RabbitMQ, Google Pub/Sub
-👉 Kubernetes / Docker / CircleCI / Jenkins / Ansible
-👉 TDD / BDD (cucumber/gherkin / behave / Cypress )
-👉 Microservice Architecture | K8s
-👉 WebRTC / Jitsi / Agora
-👉 Design Patterns / Big Data
-👉 OpenAI / Cohere / Llama / Stable Diffusion / Large Language Models
-👉 HuggingFace / Replicate / Self-hosted LLM
+- 👉 Python | Java | Node | PHP
+- 👉 Spring Stack - Spring MVC, Spring Boot, Spring Security, Spring Data/JPA/Hibernate.
+- 👉 Django | Flask | Celery | MongoEngine | SQLAlchemy
+- 👉 Laravel | Codeigniter | Symphony | Yii2 | Blade
+- 👉 ExpressJS | Cote Microservice | LoopbackJS | Sequelize | ejs | Handlebars
+- 👉 TypeScript
+- 👉 REST / GraphQL APIs integration, design, and development.
+- 👉 Swagger OpenAPI v3
+- 👉 Angular 2/4/6/7/8, React, Gulp, Bower.
+- 👉 MySQL, PostgreSQL, MongoDB, Firebase / Firestore 
+- 👉 Redis
+- 👉 Elasticsearch / Sphinx / Algolia
+- 👉 AWS ( Amazon Web Services ) | GCP ( Google Cloud Platform ) | Serverless Architecture
+- 👉 Google Kubernetes Engine, Cloud functions, Cloud Run, Cloud DNS, API Gateway, Load Balancer, etc
+- 👉 Messaging - RabbitMQ, Google Pub/Sub
+- 👉 Kubernetes / Docker / CircleCI / Jenkins / Ansible
+- 👉 TDD / BDD (cucumber/gherkin / behave / Cypress )
+- 👉 Microservice Architecture | K8s
+- 👉 WebRTC / Jitsi / Agora
+- 👉 Design Patterns / Big Data
+- 👉 OpenAI / Cohere / Llama / Stable Diffusion / Large Language Models
+- 👉 HuggingFace / Replicate / Self-hosted LLM
 
 ### Relevant Industry:
 👉 IoT / Artificial Intelligence / Machine Learning
