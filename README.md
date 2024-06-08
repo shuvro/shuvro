@@ -3,7 +3,7 @@
 
 🚀 Diligent & Innovative Senior Software Engineer | Expert in Large-Scale Enterprise Solutions
 
-I am a self-motivated and diligent computer programmer who finds that the best way to come up with solutions is to think outside the box. Programming work is equal parts creativity and logic. 
+I am a self-motivated and diligent computer programmer who finds that the best way to solve problems is to think outside the box. Programming work is equal parts creativity and logic. 
 
 I specialize in developing large-scale, high-availability enterprise applications (Web and Desktop). I am an agile and ambitious software engineer with a solid technical background who possesses self-discipline, hard work, quick learning, good team spirit, and honesty. 
 
@@ -53,12 +53,12 @@ Schedule a meeting @ https://cal.com/nazmul
 
 ### Full Stack Development Consultancy ( AI & Everything )
 - Visit: https://sparrow.so ( Sparrow Studio LLC )
-- Linkedin: https://www.linkedin.com/company/sparrowhq
+- Linkedin: https://www.linkedin.com/company/SparrowHQ
 - Twitter/X: https://twitter.com/SparrowStudioHQ
 
 ### About:
 - Web: https://shuvro.me
 - Telegram:  https://t.me/xolopreneur
-- LinkedIn: https://linkedin.com/in/shuvrokhan
-- Twitter: https://twitter.com/ItsNazmulKhan
+- LinkedIn: https://linkedin.com/in/shuvroio
+- Twitter: https://twitter.com/shuvroio
 - Reddit: https://reddit.com/shuvro_khan
