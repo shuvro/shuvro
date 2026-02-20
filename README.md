@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6e40c9,75:e930ff,100:00f5ff&height=200&section=header&text=SHUVRO&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20AI%20%26%20Backend%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%9A%A1&descSize=16&descAlignY=52&descColor=00f5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12%2C10%2C30&height=200&section=header&text=SHUVRO&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20AI%20%26%20Backend%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%9A%A1&descSize=16&descAlignY=52&descColor=00f5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=650&lines=%24+kubectl+apply+-f+innovation.yaml;%24+python+train_model.py+--epochs+infinity;%24+while(true)+%7B+build()+%26%26+ship()+%7D;%24+git+commit+-m+%22pushing+boundaries%22;%24+sudo+engineer+--mode+fullstack+--deploy+prod" alt="Typing SVG" />
@@ -191,6 +191,6 @@ Schedule a meeting @ https://cal.com/nazmul
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:6e40c9,75:e930ff,100:00f5ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12%2C10%2C30&height=120&section=footer" width="100%"/>
 
 </div>
