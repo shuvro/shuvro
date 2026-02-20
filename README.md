@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=SHUVRO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20AI%20%26%20Backend%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%9A%A1&descSize=16&descAlignY=52&descColor=00f5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,30&height=250&section=header&text=SHUVRO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20AI%20%26%20Backend%20Architect%20%E2%80%A2%20DevOps%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%9A%A1&descSize=18&descAlignY=58&descColor=00f5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=650&lines=%24+kubectl+apply+-f+innovation.yaml;%24+python+train_model.py+--epochs+infinity;%24+while(true)+%7B+build()+%26%26+ship()+%7D;%24+git+commit+-m+%22pushing+boundaries%22;%24+sudo+engineer+--mode+fullstack+--deploy+prod" alt="Typing SVG" />
@@ -29,19 +29,59 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Hi there 👋
+<div align="center">
 
+### Hey there, I'm Nazmul 👋
 
-🚀 Senior Software Engineer | Advanced AI & Backend Architect | 9+ Years Experience.
+**Senior Software Engineer with 9+ years & 25,000+ hours of hands-on experience.**
+I design and deploy **AI-powered backend systems** and **agentic architectures** at scale — blending cutting-edge AI (LLMs, RAG, MCP) with robust, high-availability infrastructure for startups and enterprises worldwide.
 
-I specialize in building AI-powered Backend Systems and Agentic Architectures that solve complex problems at scale. With 25,000+ hours of hands-on experience, I design and deploy high-availability platforms that blend cutting-edge AI (LLMs, RAG, MCP) with robust, scalable backend infrastructure for startups and enterprises.
+🇪🇺 *EU-authorized (Estonian e-Residency) & US LLC — fully compliant for global B2B collaboration, no sponsorship required.*
 
-💡 EU-Authorized & Global-Ready
-I operate through an Estonian e-Residency company (EU-registered) and a US LLC, fully compliant with EU & US contracting, VAT, and GDPR frameworks. This enables smooth B2B collaboration with startups and enterprises worldwide — no sponsorship required.
+</div>
 
-AI & Agentic Systems:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### What I Build
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+🤖 **AI & Agentic Systems**
+
+Multi-agent orchestration, RAG pipelines, MCP integrations, LLM-powered workflows & analytics
+
+</td>
+<td align="center" width="33%">
+
+⚙️ **Backend & Cloud**
+
+Scalable APIs (REST/GraphQL/gRPC), microservices, event-driven architecture on AWS/GCP/Azure
+
+</td>
+<td align="center" width="33%">
+
+🚀 **DevOps & Infrastructure**
+
+Docker, Kubernetes, Terraform, CI/CD pipelines, monitoring & zero-downtime deployments
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📄 Full Resume & Achievements (click to expand)</b></summary>
+
+<br/>
+
+**AI & Agentic Systems:**
 - Multi-agent orchestration (LangChain, LangGraph, AutoGen, Semantic Kernel, CrewAI)
 - Retrieval-Augmented Generation (RAG) with vector DBs (PGVector, Pinecone, Chroma)
 - Model Context Protocol (MCP) for seamless tool/data integration
@@ -49,7 +89,7 @@ AI & Agentic Systems:
 - Prompt engineering, workflow automation, multi-modal, and corrective RAG
 - AI analytics: Langfuse, LangSmith, synthetic data pipelines
 
-Backend & Cloud:
+**Backend & Cloud:**
 - Languages: Python, Java, Node.js, TypeScript, PHP
 - Frameworks: Spring Boot, FastAPI, Django, Flask, Express, Celery
 - APIs: REST, GraphQL, gRPC, Swagger/OpenAPI
@@ -59,7 +99,7 @@ Backend & Cloud:
 - DevOps: Docker, Kubernetes, Terraform, CI/CD (CircleCI, Jenkins, GitHub Actions), Ansible
 - MicroServices, event-driven architecture, scalable API gateways
 
-Key Achievements:
+**Key Achievements:**
 - Led design and deployment of agentic RAG and MCP-based backends for millions of requests with 99.9% uptime
 - Developed multi-agent orchestration frameworks for dynamic task delegation and self-healing AI pipelines
 - Integrated OpenAI, Cohere, HuggingFace, and DeepSeek models for intelligent recommendations, boosting engagement by 35%
@@ -67,10 +107,12 @@ Key Achievements:
 - Migrated legacy systems to cloud-native (AWS/GCP), cutting costs by 30%
 - Optimized Elasticsearch for 50% faster queries and higher conversion rates
 
-Industries:
+**Industries:**
 Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Estate, ERP, Data Analytics
 
----
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> cat /etc/tech_stack.conf`
 
@@ -149,7 +191,7 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> neofetch --github-stats`
 
@@ -178,7 +220,7 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> git log --graph --all --trophies`
 
@@ -192,7 +234,7 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> tail -f /var/log/contributions.log`
 
@@ -206,7 +248,7 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> ./contrib_snake.sh --neon`
 
@@ -220,29 +262,56 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 </div>
 
----
-
-### Contact:
-Schedule a meeting @ https://cal.com/nazmul
-
-### Full Stack Development Consultancy ( AI & Everything )
-- Visit: https://sparrow.so ( Sparrow Intelligence LLC )
-- Linkedin: https://www.linkedin.com/company/SparrowIntelligence
-- Twitter/X: https://twitter.com/SparrowIntelHQ
-
-### About:
-- Book a Meeting: cal.com/nazmul
-- WhatsApp: wa.me/8801521483714
-- Web: https://shuvro.io
-- Telegram:  https://t.me/xolopreneur
-- LinkedIn: https://linkedin.com/in/shuvroio
-- X/Twitter: https://x.com/shuvroio
-- Reddit: https://reddit.com/shuvroio
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" width="100%"/>
+## `> echo "Let's Connect" 🤝`
+
+<br/>
+
+<a href="https://cal.com/nazmul">
+  <img src="https://img.shields.io/badge/Book_a_Meeting-00F5FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar"/>
+</a>
+<a href="https://wa.me/8801521483714">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://linkedin.com/in/shuvroio">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/shuvroio">
+  <img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+</a>
+<a href="https://t.me/xolopreneur">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://reddit.com/shuvroio">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+</a>
+<a href="https://shuvro.io">
+  <img src="https://img.shields.io/badge/shuvro.io-E930FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<br/><br/>
+
+### 🏢 Sparrow Intelligence LLC — Full Stack AI Consultancy
+
+<a href="https://sparrow.so">
+  <img src="https://img.shields.io/badge/sparrow.so-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sparrow Intelligence"/>
+</a>
+<a href="https://www.linkedin.com/company/SparrowIntelligence">
+  <img src="https://img.shields.io/badge/Sparrow_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sparrow LinkedIn"/>
+</a>
+<a href="https://twitter.com/SparrowIntelHQ">
+  <img src="https://img.shields.io/badge/Sparrow_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Sparrow X"/>
+</a>
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,30&height=150&section=footer" width="100%"/>
 
 </div>
