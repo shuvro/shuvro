@@ -202,20 +202,6 @@ Applied AI, IP Law, SaaS, FinTech, IoT, E-commerce, Banking, Insurance, Real Est
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> git log --graph --all --trophies`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shuvro&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shuvro&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shuvro&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## `> tail -f /var/log/contributions.log`
 
 <div align="center">
